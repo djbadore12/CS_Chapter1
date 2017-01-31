@@ -4,12 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Quotation
+namespace Name
 {
-    class Program
+    class Name
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Dj Badore");
+         
         }
     }
 }

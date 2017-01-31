@@ -4,12 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Address
+namespace Quotation
 {
-    class Program
+    class Quote
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Fear is the path to the dark side.Fear leads to anger.Anger leads to hate.Hate leads to suffering. - Yoda");
         }
     }
 }

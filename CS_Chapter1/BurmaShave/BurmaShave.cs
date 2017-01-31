@@ -10,6 +10,7 @@ namespace BurmaShave
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Jar So Big");
         }
     }
 }

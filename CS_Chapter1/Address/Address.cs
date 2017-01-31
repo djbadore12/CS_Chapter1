@@ -4,12 +4,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Name
+namespace Address
 {
-    class Program
+    class Address
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Douglas Badore");
+            Console.WriteLine("205 AppleWood Dr");
+            Console.WriteLine("Easton, PA");
         }
+
+
     }
 }
