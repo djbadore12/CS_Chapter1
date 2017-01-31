@@ -10,7 +10,10 @@ namespace BurmaShave
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Jar So Big");
+            Console.WriteLine("The big blue tube's");
+            Console.WriteLine("Just like Louise");
+            Console.WriteLine("You get A thrill");
+            Console.WriteLine("From every squeeze");
         }
     }
 }
